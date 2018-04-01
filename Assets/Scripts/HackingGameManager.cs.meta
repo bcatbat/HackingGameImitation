@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aa070f330bb769543b681a740bd151c9
+timeCreated: 1522595051
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - planePrefab: {fileID: 1575163854058976, guid: e1a653701fbb64144b9cada0b8b7133f,
+      type: 2}
+  - wallCubePrefab: {fileID: 1272479007340350, guid: 849f21fd509425b4791ff9f7afc1082f,
+      type: 2}
+  - playerPrefab: {fileID: 1482237767928628, guid: 401c9231f8890cb48bb0c541ad3d1e24,
+      type: 2}
+  - bossPrefab: {fileID: 1667567969193274, guid: 69b5c2a63b3645646b9385fc39d06ced,
+      type: 2}
+  - enemyPrefab: {fileID: 1273206364011676, guid: 848ad379f13a48e4daf7d384a29afa78,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
